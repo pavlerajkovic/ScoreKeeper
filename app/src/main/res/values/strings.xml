@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="nadal">Nadal</string>
+    <string name="djokovic">Đoković</string>
+    <string name="serve">Serve</string>
+    <string name="coin_toss">Coin Toss</string>
+    <string name="first_set">Set 1</string>
+    <string name="second_set">Set 2</string>
+    <string name="third_set">Set 3</string>
+</resources>
